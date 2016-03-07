@@ -14,6 +14,7 @@
 		22A6E4671C8DC07A0002CA15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22A6E4651C8DC07A0002CA15 /* LaunchScreen.storyboard */; };
 		22A6E4721C8DC07A0002CA15 /* T1E1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6E4711C8DC07A0002CA15 /* T1E1Tests.swift */; };
 		22A6E47D1C8DC07A0002CA15 /* T1E1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6E47C1C8DC07A0002CA15 /* T1E1UITests.swift */; };
+		22A6E48B1C8DD7240002CA15 /* NuevoviewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6E48A1C8DD7240002CA15 /* NuevoviewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		22A6E4781C8DC07A0002CA15 /* T1E1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = T1E1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22A6E47C1C8DC07A0002CA15 /* T1E1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = T1E1UITests.swift; sourceTree = "<group>"; };
 		22A6E47E1C8DC07A0002CA15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22A6E48A1C8DD7240002CA15 /* NuevoviewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NuevoviewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				22A6E45C1C8DC07A0002CA15 /* AppDelegate.swift */,
 				22A6E45E1C8DC07A0002CA15 /* ViewController.swift */,
+				22A6E48A1C8DD7240002CA15 /* NuevoviewController.swift */,
 				22A6E4601C8DC07A0002CA15 /* Main.storyboard */,
 				22A6E4631C8DC07A0002CA15 /* Assets.xcassets */,
 				22A6E4651C8DC07A0002CA15 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				22A6E45F1C8DC07A0002CA15 /* ViewController.swift in Sources */,
 				22A6E45D1C8DC07A0002CA15 /* AppDelegate.swift in Sources */,
+				22A6E48B1C8DD7240002CA15 /* NuevoviewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
